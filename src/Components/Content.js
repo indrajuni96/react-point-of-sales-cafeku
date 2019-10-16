@@ -245,7 +245,7 @@ class Content extends Component {
   handleCheckout = async (e) => {
     e.preventDefault()
     const data = new FormData(e.target)
-    axios.post('http://localhost:4000/api/v1/products/addHistory', data)
+    axios.post('http://localhost:4000/api/v1/history/addHistory', data)
     window.location.reload();
   }
 

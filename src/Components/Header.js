@@ -14,7 +14,6 @@ const Header = () => {
             <Col sm="9" className="headerFoodItem">
                 <Row>
                     <Col sm="2">
-                        <img src={iconMenu} alt="menu" className="ml-4" style={{ "marginTop": "25px" }} />
                     </Col>
                     <Col sm="10">
                         <p className="textFoodItems mr-5" style={{ "marginTop": "20px" }}>CafeKU</p>
