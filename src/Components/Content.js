@@ -236,7 +236,7 @@ class Content extends Component {
   }
 
   handleDelete(idProduct) {
-    if (window.confirm("Are you sure want to delete this product? " + idProduct)) {
+    if (window.confirm("Are you sure want to delete this product? ")) {
       axios.delete("http://localhost:4000/api/v1/products/" + idProduct)
       window.location.reload();
     }

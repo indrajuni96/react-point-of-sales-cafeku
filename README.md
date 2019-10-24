@@ -22,13 +22,13 @@ ___
 * [Npm](https://www.npmjs.com/get-npm) package / [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) package
 * [reactstrap](https://reactstrap.github.io/)
 ___
-
+ 
 ## Installation
 
 ### Clone
 
 ```sh
-$ git clone https://github.com/indrajuni96/point-of-sales-cafeku.git
+$ git clone https://github.com/indrajuni96/react-point-of-sales-cafeku.git
 $ cd point-of-sale-cafeku-master
 ```
 ---
@@ -72,4 +72,40 @@ ___
 
 ___
 
-<!-- ## Screenshots -->
+## Screenshots
+
+### Screen Login
+
+![](screenshots/Login.PNG)
+
+### Screen Home
+
+![](screenshots/Home.PNG)
+
+### Screen Add To Cart
+
+![](screenshots/Cart.PNG)
+
+### Screen Add Product
+
+![](screenshots/AddItem.PNG)
+
+### Screen Edit Product
+
+![](screenshots/EditItem.PNG)
+
+### Screen Delete Product
+
+![](screenshots/DeleteItem.PNG)
+
+### Screen History Card
+
+![](screenshots/CardHistory.PNG)
+
+### Screen History Revenue
+
+![](screenshots/RevenueHistory.PNG)
+
+### Screen History Recent Order
+
+![](screenshots/RecentOrderHistory.PNG)
